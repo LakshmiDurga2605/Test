@@ -1,2 +1,2 @@
 # Test
-This is for testing
+This is my first Git Repository
